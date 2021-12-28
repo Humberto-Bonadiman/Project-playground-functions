@@ -35,7 +35,7 @@ Após cada um dos passos, haverá um exemplo do comando a ser digitado para faze
 ```
 
 3. Abra o diretório do projeto clonado, depois entre no diretório **src** e dê duplo clique no arquivo challenges.js e challenges2.js para visualizar os códigos do projeto.
-Caso você tenha a disposição o VsCode em sua máquina, você pode visualizar os códigos digitando o comando abaixo e abrindo os arquivos challenges.js e challenges2.js que estão dentro d diretório **src**.
+Caso você tenha a disposição o VsCode em sua máquina, você pode visualizar os códigos digitando o comando abaixo e abrindo os arquivos challenges.js e challenges2.js que estão dentro do diretório **src**.
 Não é necessário instalar nada mais.
 ```javascript
   code .
